@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://vaulted.fyi"><strong>Website</strong></a> ·
-  <a href="https://github.com/vaulted-fyi/vaulted">Web App</a> ·
   <a href="https://github.com/marketplace/actions/vaulted-share-secret">GitHub Action</a> ·
   <a href="https://www.npmjs.com/package/vaulted-cli">CLI</a>
 </p>
@@ -27,5 +26,4 @@ The encryption key lives in the URL fragment (`#`), which browsers never send to
 
 | Repo | Description |
 |------|-------------|
-| [vaulted](https://github.com/vaulted-fyi/vaulted) | Web app — Next.js, Upstash Redis, `@vaulted/crypto` |
 | [share-secret](https://github.com/vaulted-fyi/share-secret) | GitHub Action — create & retrieve encrypted secrets in CI/CD |
